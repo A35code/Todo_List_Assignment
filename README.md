@@ -5,7 +5,7 @@ This is an app designed to allow users plan events for both current and future u
 # Screenshots of the app
 
 ## 1. Event planning page
-This page stores the events that have been set together with their corresponding dates and times
+This page stores the events that have been set together with their corresponding dates and times. The schedule button takes you to the custom page to choose the date and time you want the event. 
 
 ![Event Planning Page Screenshot](screenshots/event_planner_ui.png)
 
