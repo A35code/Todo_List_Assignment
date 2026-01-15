@@ -9,6 +9,10 @@ This page stores the events that have been set together with their corresponding
 
 ![Event Planning Page Screenshot](screenshots/event_planner_ui.png)
 
+This page below shows the three dot menu
+
+![Three Dot Menu Page](screenshots/three_dot_menu.png)
+
 ## 2. Custom Event page
 This Page allows the user to set events with a specific date. It must not be the current date, it can be any day aside from previous days
 
